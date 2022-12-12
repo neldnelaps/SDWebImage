@@ -1,4 +1,4 @@
-# SDWebImage
+# SDWebImage .Net7
 
     xcodebuild archive 
     -project sdwebimage.xcodeproj
