@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1704.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SDWebImage", "SDWebImage.csproj", "{B087334C-D8F0-466D-BD46-B75D144E5C9E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sample", "..\Sample\Sample.csproj", "{40787F31-DDB1-46B7-8FA6-2AD89970F2DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+		Ad-Hoc|Any CPU = Ad-Hoc|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B087334C-D8F0-466D-BD46-B75D144E5C9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B087334C-D8F0-466D-BD46-B75D144E5C9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B087334C-D8F0-466D-BD46-B75D144E5C9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B087334C-D8F0-466D-BD46-B75D144E5C9E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B087334C-D8F0-466D-BD46-B75D144E5C9E}.Ad-Hoc|Any CPU.ActiveCfg = Debug|Any CPU
+		{B087334C-D8F0-466D-BD46-B75D144E5C9E}.Ad-Hoc|Any CPU.Build.0 = Debug|Any CPU
+		{40787F31-DDB1-46B7-8FA6-2AD89970F2DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40787F31-DDB1-46B7-8FA6-2AD89970F2DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40787F31-DDB1-46B7-8FA6-2AD89970F2DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40787F31-DDB1-46B7-8FA6-2AD89970F2DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{40787F31-DDB1-46B7-8FA6-2AD89970F2DB}.Ad-Hoc|Any CPU.ActiveCfg = Debug|Any CPU
+		{40787F31-DDB1-46B7-8FA6-2AD89970F2DB}.Ad-Hoc|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5F317D88-D32A-40F0-BB5F-E3F9590CC6CD}
+	EndGlobalSection
+EndGlobal

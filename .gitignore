@@ -1,0 +1,82 @@
+# Rider
+.idea.*/*
+/**/*.idea
+/**/.idea/*
+
+# Visual Studio 2015 cache/options directory
+.vs/
+
+# User-specific files (MonoDevelop/Xamarin Studio)
+*.userprefs
+
+# Build results
+/**/Debug/*
+/**/Release/*
+/**/bin/*
+/**/obj/*
+
+# Xamarin Components
+/**/Components/*
+
+# NuGet Packages
+*.nupkg
+# The packages folder can be ignored because of Package Restore
+**/packages/*
+# except build/, which is used as an MSBuild target.
+!**/packages/build/
+# Uncomment if necessary however generally it will be regenerated when needed
+#!**/packages/repositories.config
+# NuGet v3's project.json files produces more ignoreable files
+*.nuget.props
+*.nuget.targets
+
+# User-specific files
+*.suo
+*.user
+*.sln.docstates
+*.userprefs
+*.DS_Store
+*.bak
+/src/UpgradeLog*.htm
+
+# Ignore Xamarin.Android Resource.Designer.cs files
+**/*.Droid/**/[Rr]esource.[Dd]esigner.cs
+/**/*Android*/**/[Rr]esource.[Dd]esigner.cs
+**/Android/**/[Rr]esource.[Dd]esigner.cs
+
+# ReSharper is a .NET coding add-in
+_ReSharper*/
+*.[Rr]e[Ss]harper
+*.DotSettings.user
+
+# TeamCity is a build add-in
+_TeamCity*
+
+# DotCover is a Code Coverage Tool
+*.dotCover
+
+# Visual Studio profiler
+*.psess
+*.vsp
+*.vspx
+
+#NUNIT
+*.VisualState.xml
+TestResult.xml
+**/TestResults
+
+# MSTest test Results
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
+
+#StyleCop
+*.Cache
+*.DotSettings
+
+# Azure Mobile
+*.mdf
+*.ldf
+Pods
+build
+*.Framework
+*.zip
